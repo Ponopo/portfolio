@@ -1,0 +1,7 @@
+<20221103>
+・各sectionのtitleをdivタブ→h2タブに変更
+・各sectionのtitleの背景枠を削除
+・各sectionのtitleを50px→40px
+・section1の説明部分のdivタグを省略
+
+
